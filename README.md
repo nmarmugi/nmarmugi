@@ -1,10 +1,10 @@
-# Benvenuto sul mio github 👋
+# Benvenuto sul mio GitHub 👋
 
 ![Mio Avatar](./myAvatar.png)
 
 ## Descrizione
 
-Ciao! Sono Nicola Marmugi e questa è la mia home page personale ospitata su GitHub Pages. Qui potrai trovare informazioni su di me, i miei progetti, e altro ancora!
+Ciao! Sono Nicola Marmugi, una persona molto curiosa e con la voglia di imparare costantemente. Questa è la mia home page su GitHub. Qui potrai trovare informazioni su di me, i miei progetti e le tecnologie che utilizzo per esplorare nuove idee e sfide!
 
 - 🌍 Visita il sito web: https://portfolio-nm-fawn.vercel.app/
 

@@ -6,7 +6,7 @@
 
 Ciao! Sono **Nicola Marmugi**, una persona molto curiosa e con la voglia di imparare costantemente. Questa è la mia home page su GitHub. Qui potrai trovare informazioni su di me, i miei progetti e le tecnologie che utilizzo per esplorare nuove idee e sfide!
 
-- 🌍 Visita il mio sito web: [Portfolio di Nicola](https://portfolio-nm-fawn.vercel.app/)
+- 🌍 Visita il mio sito web: [Il Mio Portfolio](https://portfolio-nm-fawn.vercel.app/)
 
 ![Portfolio Home](./portfolio.png)
 
@@ -30,8 +30,8 @@ Ciao! Sono **Nicola Marmugi**, una persona molto curiosa e con la voglia di impa
 
 Se desideri contattarmi, ecco come farlo:
 
-- 📧 Email: [marmu1@hotmail.it](mailto:tuoemail@example.com)
-- 💬 LinkedIn: [https://www.linkedin.com/in/nicola-marmugi-2860b022a/](https://www.linkedin.com/in/nicola-marmugi-2860b022a/)
+- 📧 Email: [La Mia Mail](mailto:marmu1@hotmail.it)
+- 💬 LinkedIn: [Il Mio Linkedin](https://www.linkedin.com/in/nicola-marmugi-2860b022a/)
 
 ---
 

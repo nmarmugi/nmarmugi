@@ -38,7 +38,7 @@ Ciao! Sono **Nicola Marmugi**, una persona molto curiosa e con la voglia di impa
 Se desideri contattarmi, ecco come farlo:
 
 - 📧 Email: [marmu1@hotmail.it](mailto:tuoemail@example.com)
-- 💬 LinkedIn: [https://www.linkedin.com/in/nicola-marmugi/](https://www.linkedin.com/in/nicola-marmugi)
+- 💬 LinkedIn: [https://www.linkedin.com/in/nicola-marmugi/](https://www.linkedin.com/in/nicola-marmugi/)
 
 ---
 

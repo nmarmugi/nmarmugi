@@ -26,13 +26,6 @@ Ciao! Sono **Nicola Marmugi**, una persona molto curiosa e con la voglia di impa
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </p>
 
-## 🚀 Progetti
-
-### Dai un'occhiata ai miei progetti:
-
-- 🔧 [Nome Progetto 1](https://github.com/TuoNome/NomeProgetto1): Descrizione breve del progetto.
-- 🔧 [Nome Progetto 2](https://github.com/TuoNome/NomeProgetto2): Descrizione breve del progetto.
-
 ## 📫 Contattami
 
 Se desideri contattarmi, ecco come farlo:

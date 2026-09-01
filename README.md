@@ -6,10 +6,6 @@
 
 Ciao! Sono **Nicola Marmugi**, una persona molto curiosa e con la voglia di imparare costantemente. Questa è la mia home page su GitHub. Qui potrai trovare informazioni su di me, i miei progetti e le tecnologie che utilizzo per esplorare nuove idee e sfide!
 
-- 🌍 Visita il mio sito web: [Il Mio Portfolio](https://portfolio-nm-fawn.vercel.app/)
-
-![Portfolio Home](./portfolio.png)
-
 ## ⚙️ Tecnologie Utilizzate
 
 ### Ecco alcune delle tecnologie che amo utilizzare:
